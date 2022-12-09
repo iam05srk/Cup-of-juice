@@ -17,7 +17,7 @@ body{
     border-bottom-left-radius: 35px;
     border-bottom-right-radius: 35px;
 
-    background: url(/images/wave2.png);
+    background: url(./images/wave2.png);
     background-repeat: repeat-x;
 
     animation: animate 10s linear 
